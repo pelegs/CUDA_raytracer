@@ -1,6 +1,6 @@
 ## General CUDA raytracer for my learning purposes
 
-This code is taken from [Accelerated Ray Tracing in One Weekend in CUDA](https://developer.nvidia.com/blog/accelerated-ray-tracing-cuda) by [Roger Allen](https://developer.nvidia.com/blog/author/rallen/) ([github repository](github.com/RayTracing/InOneWeekend)).
+This code is taken from [Accelerated Ray Tracing in One Weekend in CUDA](https://developer.nvidia.com/blog/accelerated-ray-tracing-cuda) by [Roger Allen](https://developer.nvidia.com/blog/author/rallen/) ([github repository](https://github.com/RayTracing/InOneWeekend)).
 
 It is meant to teach me how to utilize the GPU to perform raytracing, a rather "emberassly parallelizeable" problem.
 
